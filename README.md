@@ -1,1 +1,17 @@
-EH 1: VR Projekt angelegt mit gitignore und Readme und Idee für Spiel überlegt.
+#Project description:
+
+
+#Development platform: 
+
+
+#Target platfrom: 
+
+
+#Visuals:
+
+
+#Third Party Material
+
+
+#Status:
+1%
