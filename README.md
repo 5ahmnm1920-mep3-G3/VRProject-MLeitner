@@ -10,12 +10,17 @@ Man muss einen Schalter finden um das Auto runterzufahren und dann die Reifen in
 - API Compatibility Level: .NET Standard 2.0
 
 # Target platfrom: 
+- HTC Vive
+- Oculus Rift
 
 
 # Visuals:
 
 
+
 # Third Party Material
+
+
 
 
 # Status:
