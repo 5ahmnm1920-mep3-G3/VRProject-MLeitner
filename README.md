@@ -19,7 +19,7 @@ Man muss einen Schalter finden um das Auto runterzufahren und dann die Reifen in
 
 # Visuals:
 <div>
-<img src="img/mep_VRgame_skizze-garage.jpg" width="512">
+<img src="../img/mep_VRgame_skizze-garage.jpg" width="512">
 </div>
 
 
