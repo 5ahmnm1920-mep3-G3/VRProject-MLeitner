@@ -2,6 +2,8 @@
 Man befindet sich in einer Werkstatt. Ein Auto ohne Reifen befindet sich auf einer Hebebühne. 
 Man muss einen Schalter finden um das Auto runterzufahren und dann die Reifen in der Werkstatt einsammeln und auf dem Auto Montieren. Wenn man das innerhalb des Timers schafft hat man gewonnen. 
 
+## Sollte meines erachtens im Unity 2D Debug Modus umgesetzt werden können. 
+
 # Development platform: 
 - OS: Windows 10 Version 1909 
 - Engine: Unity 2019.1.14f1 
@@ -25,3 +27,11 @@ Man muss einen Schalter finden um das Auto runterzufahren und dann die Reifen in
 
 # Status:
 1%
+
+# Documentation:
+  - Steam Vr importiert
+  - Car importier
+  - Seperate Reifen importiert
+  - player eingerichtet 
+  
+
