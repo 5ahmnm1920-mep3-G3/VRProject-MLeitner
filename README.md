@@ -30,12 +30,22 @@ Man muss einen Schalter finden um das Auto runterzufahren und dann die Reifen in
 
 
 # Status:
-1%
+14,5%
 
 # Documentation:
   - Steam Vr importiert
-  - Car importier
+  - Car importiert
   - Seperate Reifen importiert
-  - player eingerichtet 
+  - steam vr player eingerichtet 
+  - problem bei größen anpassung (auto), sollte jetzt aber so halbwegs passen. 
+
+
+# Struggels: 
+  - img in readme einbinden .. idk hab voll viel herumprobeirt irgendetwas übersehe ich.. 
+  - finde bzgl. Hebebühne kein gutes/ gratis 3D model deswegen werde ich diese selber Modeln - was mehr zeit in anspruch nehmen wird. 
+  
+  
+# next Steps: 
+  - weitere Models zusammensuchen/ modelieren und beginnen den Raum in Unity aufzubauen
   
 
